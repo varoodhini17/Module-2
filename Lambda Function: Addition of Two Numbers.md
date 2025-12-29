@@ -25,5 +25,5 @@ print(f(a,b,c))
 
 ## Result
 
-<img width="318" height="302" alt="image" src="https://github.com/user-attachments/assets/171f0115-5c25-40cc-8ab0-ea5318e6706b" />
+Thus,the Python program that defines a lambda function which takes two arguments a and b, and returns their sum is created successfully.
 
